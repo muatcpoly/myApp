@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "muaApp"
+  "defaultProject": "muaApp",
+  "cli": {
+    "analytics": false
+  }
 }
